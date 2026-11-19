@@ -1,0 +1,6 @@
+{
+  "name": "SocialSpark",
+  "description": "Subscription-based social media marketing and short-form content agency in Dehradun, Uttarakhand. We Create. We Connect. We Grow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="sparkGrad" x1="12" y1="12" x2="52" y2="52" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7B2FF7" />
+      <stop offset="100%" stop-color="#FF7A30" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#15152B" />
+  <path
+    d="M32 10C33.4 22.8 41.2 30.6 54 32C41.2 33.4 33.4 41.2 32 54C30.6 41.2 22.8 33.4 10 32C22.8 30.6 30.6 22.8 32 10Z"
+    fill="url(#sparkGrad)"
+  />
+  <circle cx="47" cy="17" r="3.2" fill="#FF7A30" />
+</svg>
